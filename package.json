@@ -1,0 +1,11 @@
+{
+  "name": "music_player",
+  "version": "1.0.0",
+  "description": "Api music player",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Emerson vergara",
+  "license": "ISC"
+}
